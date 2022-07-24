@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413106671481",
+    "firebase_url": "https://pnpdict-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pnpdict",
+    "storage_bucket": "pnpdict.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413106671481:android:94f3f9c22209a472c769a8",
+        "android_client_info": {
+          "package_name": "com.pnpdict.pnpdict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413106671481-m84l6moqnhnvemn79nf7tba34tn5k070.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUw1RTax67O7IbbUhGMPSPy090egpg9LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413106671481-m84l6moqnhnvemn79nf7tba34tn5k070.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
